@@ -24,8 +24,6 @@ CVE-2026-31431 without os.splice — Python 3.6–3.9, ctypes instead of the 3.1
 - любой читаемый setuid-root ELF64
 - Python 3.6+ с `ctypes`
 
-Прав root, sudo и user namespaces не нужно.
-
 ## Использование
 
 ```bash
